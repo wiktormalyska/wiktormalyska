@@ -9,7 +9,7 @@
 → <img src="icons/c++.png" alt="c++" width="16" height="16">C++ - Basics\
 → <img src="icons/c.png" alt="c#" width="16" height="16">C# - Basics
 
-#### My Social Media:
+#### My Social Media and Markets:
 → <img src="icons/linkedin.png" alt="linkedin" width="16" height="16"> [LinkedIn](https://www.linkedin.com/in/wiktor-ma%C5%82yska-a88b31244/?locale=en_US)\
 → <img src="icons/discord.png" alt="discord" width="16" height="16"> [Discord Server](https://discord.gg/Y9BbesGwXa)\
 → <img src="icons/spigot.png" alt="spigot" width="16" height="16"> [SpigotMC](https://www.spigotmc.org/members/pmalysyt.621204/)\
