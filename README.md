@@ -2,11 +2,12 @@
 ## My name is Wiktor Małyska
 ### About me:
 #### Skills:
-→ Java - Junior\
-→ SQL - Junior\
-→ Linux - Junior\
-→ .NET - Basics\
-→ C++ - Basics
+→ <img src="icons/java.png" alt="java" width="16" height="16"> Java - Junior\
+→ <img src="icons/sql.png" alt="sql" width="16" height="16">SQL - Junior\
+→ <img src="icons/linux.png" alt="linux" width="16" height="16">Linux - Basics\
+→ <img src="icons/.net.png" alt=".net" width="16" height="16">.NET - Basics\
+→ <img src="icons/c++.png" alt="c++" width="16" height="16">C++ - Basics
+→ <img src="icons/c#.png" alt="c#" width="16" height="16">C# - Basics
 
 #### My Social Media:
 → <img src="icons/linkedin.png" alt="linkedin" width="16" height="16"> [LinkedIn](https://www.linkedin.com/in/wiktor-ma%C5%82yska-a88b31244/?locale=en_US)
