@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=wiktormalyska&style=for-the-badge)
+
 # Hi there 👋
 ## My name is Wiktor Małyska
 ### About me:
