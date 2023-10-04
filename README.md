@@ -89,6 +89,6 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wiktormalyska&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=FF5F5F&line=FF5F5F&point=FFFFFF)
 
 ## Partners
-![](https://media.discordapp.net/attachments/1154536200581947504/1159210973463318619/wiktormalyska.png?ex=65303259&is=651dbd59&hm=1f8234bd3d633c1191cbe10add6a44555e0583aad06e23f957a71e8296424f07&=)
+[![](https://media.discordapp.net/attachments/1154536200581947504/1159210973463318619/wiktormalyska.png?ex=65303259&is=651dbd59&hm=1f8234bd3d633c1191cbe10add6a44555e0583aad06e23f957a71e8296424f07&=)](https://billing.kinetichosting.net/aff.php?aff=566)
 
 #### README.md template from [alsiam](https://github.com/alsiam)
