@@ -70,6 +70,9 @@
   <a href="https://github.com/wiktormalyska/FiverrAPI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wiktormalyska&hide_border=true&title_color=FF5F5F&text_color=FFFFFF&bg_color=0D1117&repo=FiverrAPI" height="192px" width="49.5%"/>
   </a>
+  <a href="https://github.com/wiktormalyska/CrawlingCrops">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wiktormalyska&hide_border=true&title_color=FF5F5F&text_color=FFFFFF&bg_color=0D1117&repo=CrawlingCrops" height="192px" width="49.5%"/>
+  </a>
 </p>
 
 
