@@ -42,7 +42,7 @@
   
  ✌️ &emsp; Enjoy coding, making pixel art for my projects and learn about technology<br/>
  ❤️ &emsp; Love to learn coding and share my experience with others<br/>
- 📖 &emsp; Studying IT in UMCS in Lublin<br/>
+ 📖 &emsp; Studying IT at UMCS in Lublin<br/>
 
 </p>
 
