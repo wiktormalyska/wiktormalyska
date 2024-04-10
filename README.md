@@ -50,12 +50,14 @@
 
 # Code languages and tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)
-![C#](https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&labelColor=black&logo=csharp&logoColor=512BD4)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&color=0db7ed)
+![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=white&color=4584b6)
+
 
 # My projects
 <p align="center">
