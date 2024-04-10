@@ -57,6 +57,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&color=0db7ed)
 ![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=white&color=4584b6)
+![Github Actions](https://img.shields.io/badge/Github%20Actions-ffde57?style=for-the-badge&logo=github%20actions&logoColor=white&color=black)
+
 
 
 # My projects
