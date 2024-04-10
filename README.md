@@ -42,7 +42,7 @@
   
  ✌️ &emsp; Enjoy coding and discovering new technologies<br/>
  ❤️ &emsp; Love to learn coding and share my experience with others<br/>
- 📖 &emsp; Studying IT at UMCS in Lublin<br/>
+ 📖 &emsp; Studying Computer Science at UMCS in Lublin<br/>
 
 </p>
 
