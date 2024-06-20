@@ -63,7 +63,7 @@
 
 # My projects
 <p align="center">
-  <a href="[https://github.com/wiktormalyska/WebShop](https://github.com/wiktormalyska/WebShop)">
+  <a href="https://github.com/wiktormalyska/WebShop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wiktormalyska&hide_border=true&title_color=FF5F5F&text_color=FFFFFF&bg_color=0D1117&repo=WebShop" height="192px" width="49.5%"/>
   </a>
     <a href="https://github.com/wiktormalyska/Cannibal-Missionary-Problem-Graph">
