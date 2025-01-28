@@ -33,7 +33,7 @@
   🔬 &emsp; Exploring new technologies and DIY engineering projects<br>
   💻 &emsp; Frontend, backend, and full-stack development<br>
   🌐 &emsp; Networking, servers, and infrastructure management<br>
-  🐳 &emsp; Containerization with Docker and Kubernetes<br>
+  🐳 &emsp; Containerization with Docker<br>
   ⚙️ &emsp; DevOps practices, CI/CD, and automation<br>
   🔧 &emsp; Working with Jenkins, Git, and infrastructure as code<br>
 </p>
