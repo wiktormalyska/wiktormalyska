@@ -1,6 +1,4 @@
 
-![](https://komarev.com/ghpvc/?username=wiktormalyska&color=FF5F5F&style=for-the-badge&label=Profile+Views)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp> Hey There!, I am Wiktor Małyska
@@ -17,38 +15,32 @@
   </samp>
 </p>
 
-<p align="center">
- <a href="https://www.linkedin.com/in/wiktor-ma%C5%82yska-a88b31244/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wiktormalyska"/>
- </a>
- <a href="https://modrinth.com/user/wiktormalyska" target="_blank">
-  <img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" />
- </a>
-  <a href="https://legacy.curseforge.com/members/pmalys/projects" target="_blank">
-  <img src="https://img.shields.io/badge/Curseforge-F16436?style=for-the-badge&logo=curseforge&logoColor=white" />
- </a>
-  </a>
-  <a href="https://discord.gg/Y9BbesGwXa" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
- </a>
-</p>
-
 <br />
 
 <!-- About Section -->
- # About me
- 
-<p>
-  
- ✌️ &emsp; Enjoy coding and discovering new technologies<br/>
- ❤️ &emsp; Love to learn coding and share my experience with others<br/>
- 📖 &emsp; Studying Computer Science at UMCS in Lublin<br/>
+<h2>About Me</h2>
 
+<p>
+  🚀 &emsp; Passionate about coding, always eager to explore new technologies<br>
+  ❤️ &emsp; Love learning, sharing knowledge, and building cool projects<br>
+  🎓 &emsp; Computer Science student at UMCS in Lublin<br>
+  ⚙️ &emsp; Enthusiast of electronics, 3D printing, CAD modeling, and engineering<br>
+</p>
+
+<h2>Hobby</h2>
+
+<p>
+  🔧 &emsp; Experimenting with electronics and microcontrollers<br>
+  🖨️ &emsp; 3D printing and designing custom models in CAD<br>
+  🔬 &emsp; Exploring new technologies and DIY engineering projects<br>
+  💻 &emsp; Frontend, backend, and full-stack development<br>
+  🌐 &emsp; Networking, servers, and infrastructure management<br>
 </p>
 
 
 
-# Code languages and tools
+
+<h2> Code languages and tools </h2>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -59,51 +51,47 @@
 ![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=white&color=4584b6)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-ffde57?style=for-the-badge&logo=github%20actions&logoColor=white&color=black)
 
+<h2> Websites </h2>
 
+<div style="font-size: 1.5rem; display: flex; font-family: sans-serif;">
+  <a href="https://www.linkedin.com/in/wiktor-ma%C5%82yska-a88b31244/" target=”_blank” style="text-decoration: none; color: white; background-color: #0D1117; padding: 1rem; border-radius: 1rem; margin: 0.5rem;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+      <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z"/>
+    </svg> 
+    LinkedIn
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16">
+      <path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1 1 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4 4 0 0 1-.128-1.287z"/>
+      <path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243z"/>
+    </svg>
+  </a>
+</div>
 
-# My projects
-<p align="center">
-  <a href="https://github.com/wiktormalyska/WebShop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wiktormalyska&hide_border=true&title_color=FF5F5F&text_color=FFFFFF&bg_color=0D1117&repo=WebShop" height="192px" width="49.5%"/>
+<div style="font-size: 1.5rem; display: flex; font-family: sans-serif;">
+  <a href="https://wiktormalyska.ovh/" target=”_blank” style="text-decoration: none; color: white; background-color: #0D1117; padding: 1rem; border-radius: 1rem; margin: 0.5rem;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-person-fill" viewBox="0 0 16 16">
+      <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0m2 5.755V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-.245S4 12 8 12s5 1.755 5 1.755"/>
+    </svg>
+    Portfolio
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16">
+      <path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1 1 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4 4 0 0 1-.128-1.287z"/>
+      <path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243z"/>
+    </svg>
   </a>
-    <a href="https://github.com/wiktormalyska/Cannibal-Missionary-Problem-Graph">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wiktormalyska&hide_border=true&title_color=FF5F5F&text_color=FFFFFF&bg_color=0D1117&repo=Cannibal-Missionary-Problem-Graph" height="192px" width="49.5%"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/wiktormalyska/lets-begin-book">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wiktormalyska&hide_border=true&title_color=FF5F5F&text_color=FFFFFF&bg_color=0D1117&repo=lets-begin-book" height="192px" width="49.5%"/>
-  </a>
-    <a href="https://github.com/wiktormalyska/arduino-plant-watering-display">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wiktormalyska&hide_border=true&title_color=FF5F5F&text_color=FFFFFF&bg_color=0D1117&repo=arduino-plant-watering-display" height="192px" width="49.5%"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/wiktormalyska/FiverrAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wiktormalyska&hide_border=true&title_color=FF5F5F&text_color=FFFFFF&bg_color=0D1117&repo=FiverrAPI" height="192px" width="49.5%"/>
-  </a>
-  <a href="https://github.com/wiktormalyska/CrawlingCrops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wiktormalyska&hide_border=true&title_color=FF5F5F&text_color=FFFFFF&bg_color=0D1117&repo=LostArmy" height="192px" width="49.5%"/>
-  </a>
-</p>
+</div>
 
-
-# Statistics
-<p align="center">
-  <a href="https://github.com/wiktormalyska">
-    <img src="https://github-readme-streak-stats-eight-sooty.vercel.app?user=wiktormalyska&hide_border=true&theme=blood-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=0D1117"/>
+<div style="font-size: 1.5rem; display: flex; font-family: sans-serif;">
+  <a href="https://docusaurus.wiktormalyska.ovh/" target=”_blank” style="text-decoration: none; color: white; background-color: #0D1117; padding: 1rem; border-radius: 1rem; margin: 0.5rem;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-archive-fill" viewBox="0 0 16 16">
+      <path d="M12.643 15C13.979 15 15 13.845 15 12.5V5H1v7.5C1 13.845 2.021 15 3.357 15zM5.5 7h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1M.8 1a.8.8 0 0 0-.8.8V3a.8.8 0 0 0 .8.8h14.4A.8.8 0 0 0 16 3V1.8a.8.8 0 0 0-.8-.8z"/>
+    </svg>
+    Documentation
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16">
+      <path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1 1 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4 4 0 0 1-.128-1.287z"/>
+      <path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243z"/>
+    </svg>
   </a>
-</p>
-<a> 
-    <a href="https://github.com/wiktormalyska"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=wiktormalyska&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&hide_border=true&bg_color=0D1117&title_color=FF5F5F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/wiktormalyska"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=wiktormalyska&langs_count=8&layout=compact&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&hide_border=true&title_color=FF5F5F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wiktormalyska&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=FF5F5F&line=FF5F5F&point=FFFFFF)
+</div>
 
 ## Partners
 [![](https://media.discordapp.net/attachments/1154536200581947504/1159210973463318619/wiktormalyska.png?ex=65303259&is=651dbd59&hm=1f8234bd3d633c1191cbe10add6a44555e0583aad06e23f957a71e8296424f07&=)](https://billing.kinetichosting.net/aff.php?aff=566)
 
-#### README.md template from [alsiam](https://github.com/alsiam)
