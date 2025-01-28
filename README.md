@@ -9,13 +9,11 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a developer and student from <b>Poland</b> 」
+    「 I am a full stack developer from <b>Poland</b> 」
     <br>
     <br>
   </samp>
 </p>
-
-<br />
 
 <!-- About Section -->
 <h2>About Me</h2>
@@ -35,21 +33,10 @@
   🔬 &emsp; Exploring new technologies and DIY engineering projects<br>
   💻 &emsp; Frontend, backend, and full-stack development<br>
   🌐 &emsp; Networking, servers, and infrastructure management<br>
+  🐳 &emsp; Containerization with Docker and Kubernetes<br>
+  ⚙️ &emsp; DevOps practices, CI/CD, and automation<br>
+  🔧 &emsp; Working with Jenkins, Git, and infrastructure as code<br>
 </p>
-
-
-
-
-<h2> Code languages and tools </h2>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&color=0db7ed)
-![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=white&color=4584b6)
-![Github Actions](https://img.shields.io/badge/Github%20Actions-ffde57?style=for-the-badge&logo=github%20actions&logoColor=white&color=black)
 
 <h2> Websites </h2>
 
@@ -93,5 +80,5 @@
 </div>
 
 ## Partners
-[![](https://media.discordapp.net/attachments/1154536200581947504/1159210973463318619/wiktormalyska.png?ex=65303259&is=651dbd59&hm=1f8234bd3d633c1191cbe10add6a44555e0583aad06e23f957a71e8296424f07&=)](https://billing.kinetichosting.net/aff.php?aff=566)
+[![](https://github.com/wiktormalyska/wiktormalyska/blob/main/wiktormalyska.png?raw=true)](https://billing.kinetichosting.net/aff.php?aff=566)
 
