@@ -46,6 +46,8 @@
 - 🌍 [Portfolio](https://wiktormalyska.ovh/)  
 - 📖 [Documentation](https://docusaurus.wiktormalyska.ovh/)  
 
+[![](https://github.com/wiktormalyska/wiktormalyska/blob/main/wiktormalyska-kofi.jpg?raw=true)](https://ko-fi.com/wiktormalyska03)
+
 ## Partners
 [![](https://github.com/wiktormalyska/wiktormalyska/blob/main/wiktormalyska.png?raw=true)](https://billing.kinetichosting.net/aff.php?aff=566)
 
